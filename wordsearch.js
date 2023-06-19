@@ -1,3 +1,4 @@
+//week 5 pair programming with Russell Ley, Ranjita Sharma & Jasmine Nixon
 const wordSearch = (letters, word) => {
   // This array stores strings in a row based from the letters array that are joined together.
   const horizontalJoin = letters.map(ls => ls.join(''));
